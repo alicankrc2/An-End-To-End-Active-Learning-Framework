@@ -39,7 +39,7 @@ After downloading, please place the dataset inside the data/ folder.
 🔗 Citation
 
 If you find this repository useful, please cite our paper:
-
+```
 @article{E2E_ActiveLearning,
   author = {Ali Can Karaca and Gokhan Bilgin},
   title = {An end-to-end active learning framework for limited labelled hyperspectral image classification},
@@ -52,7 +52,7 @@ If you find this repository useful, please cite our paper:
   doi = {10.1080/01431161.2025.2467294},
   URL = {https://doi.org/10.1080/01431161.2025.2467294}
 }
-
+```
 📬 Contact
 
 For any questions or discussions, please feel free to open an issue or contact us via email.
