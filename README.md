@@ -1,7 +1,9 @@
 # An End-to-End Active Learning Framework for Limited Labelled Hyperspectral Image Classification
-
-Authors: Ali Can Karaca, Gokhan BilginPublished in: International Journal of Remote SensingDOI: 10.1080/01431161.2025.2467294
-
+```
+Authors: Ali Can Karaca, Gokhan Bilgin
+Published in: International Journal of Remote Sensing
+DOI: [10.1080/01431161.2025.2467294](https://dx.doi.org/10.1080/01431161.2025.2467294)
+```
 📌 Overview
 
 This repository contains the implementation of our paper:
