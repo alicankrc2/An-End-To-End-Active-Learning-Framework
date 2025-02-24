@@ -1,10 +1,12 @@
 # An End-to-End Active Learning Framework for Limited Labelled Hyperspectral Image Classification
-```
+
 Authors: Ali Can Karaca, Gokhan Bilgin
+
 Published in: International Journal of Remote Sensing
+
 DOI: [10.1080/01431161.2025.2467294](https://dx.doi.org/10.1080/01431161.2025.2467294)
-```
-📌 Overview
+
+**📌 Overview**
 
 This repository contains the implementation of our paper:
 
@@ -22,7 +24,7 @@ Hyperspectral image (HSI) classification is challenging due to high dimensionali
 
 Experimental results on Indian Pines, Pavia University, and Salinas datasets show that our approach achieves superior classification accuracy with minimal labeled data.
 
-📂 Repository Structure
+**📂 Repository Structure**
 ```
 ├── data/                 # Dataset folder 
 ├── functions/            # Function codes of the proposed method 
@@ -30,7 +32,7 @@ Experimental results on Indian Pines, Pavia University, and Salinas datasets sho
 ├── README.md             # This file 
 ```
 
-🔽 Download Data
+**🔽 Download Data**
 
 The dataset required for this project can be downloaded from the following link:
 
@@ -38,7 +40,7 @@ The dataset required for this project can be downloaded from the following link:
 
 After downloading, please place the dataset inside the data/ folder.
 
-🔗 Citation
+**🔗 Citation**
 
 If you find this repository useful, please cite our paper:
 ```
@@ -55,7 +57,7 @@ If you find this repository useful, please cite our paper:
   URL = {https://doi.org/10.1080/01431161.2025.2467294}
 }
 ```
-📬 Contact
+**📬 Contact**
 
 For any questions or discussions, please feel free to open an issue or contact us via email.
 
