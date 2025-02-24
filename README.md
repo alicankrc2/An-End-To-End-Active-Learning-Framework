@@ -26,7 +26,7 @@ Experimental results on Indian Pines, Pavia University, and Salinas datasets sho
 
 **📂 Repository Structure**
 ```
-├── data/                 # Dataset folder 
+├── Data/                 # Dataset folder (put any HSI under this folder as shared in Download Data section)
 ├── functions/            # Function codes of the proposed method 
 ├── main_E2EAL.m          # Main script to run demo in MATLAB (Tested on MATLAB 2023) 
 ├── README.md             # This file 
