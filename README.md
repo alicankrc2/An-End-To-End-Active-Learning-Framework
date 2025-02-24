@@ -27,6 +27,15 @@ Experimental results on Indian Pines, Pavia University, and Salinas datasets sho
 ├── main_E2EAL.m          # Main script to run demo in MATLAB (Tested on MATLAB 2023) 
 ├── README.md             # This file 
 ```
+
+🔽 Download Data
+
+The dataset required for this project can be downloaded from the following link:
+
+[Download Dataset](https://drive.google.com/file/d/18v_YNPYUYo7uaXMK4XSYHFPNt-tgmWWH/view?usp=drive_link)
+
+After downloading, please place the dataset inside the data/ folder.
+
 🔗 Citation
 
 If you find this repository useful, please cite our paper:
