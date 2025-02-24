@@ -10,13 +10,13 @@ An end-to-end active learning framework for limited labelled hyperspectral image
 
 Hyperspectral image (HSI) classification is challenging due to high dimensionality, spectral variability, and limited labeled samples. Our proposed framework integrates:
 
-Dimensionality Reduction (DR) to handle high-dimensional data,
+- Dimensionality Reduction (DR) to handle high-dimensional data,
 
-Domain Transform Filter (DtF) to enhance feature extraction,
+- Domain Transform Filter (DtF) to enhance feature extraction,
 
-Probabilistic Spatial-Aware Collaborative Representation (PSACR) Classifier for improved classification,
+- Probabilistic Spatial-Aware Collaborative Representation (PSACR) Classifier for improved classification,
 
-MMU+CLSW Clustering-Based Active Learning Sampling Strategy to select informative samples effectively.
+- MMU+CLSW Clustering-Based Active Learning Sampling Strategy to select informative samples effectively.
 
 Experimental results on Indian Pines, Pavia University, and Salinas datasets show that our approach achieves superior classification accuracy with minimal labeled data.
 
