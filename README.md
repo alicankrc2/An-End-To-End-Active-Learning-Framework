@@ -21,12 +21,12 @@ MMU+CLSW Clustering-Based Active Learning Sampling Strategy to select informativ
 Experimental results on Indian Pines, Pavia University, and Salinas datasets show that our approach achieves superior classification accuracy with minimal labeled data.
 
 📂 Repository Structure
-
+```
 ├── data/                 # Dataset folder 
 ├── functions/            # Function codes of the proposed method 
 ├── main_E2EAL.m          # Main script to run demo in MATLAB (Tested on MATLAB 2023) 
 ├── README.md             # This file 
-
+```
 🔗 Citation
 
 If you find this repository useful, please cite our paper:
